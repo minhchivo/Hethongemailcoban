@@ -1,0 +1,108 @@
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Firebase.dll
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Reactive.dll
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiteDB.dll
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Firebase.xml
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiteDB.xml
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Reactive.xml
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Login.resources
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsF.E1DB6B00.Up2Date
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.RegisterFrom.resources
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Api.Gax.dll
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Apis.Auth.dll
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Apis.Core.dll
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Apis.dll
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Cloud.Storage.V1.dll
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.CodeDom.dll
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ValueTuple.dll
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Api.Gax.pdb
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Api.Gax.xml
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Apis.pdb
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Apis.xml
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Apis.Auth.xml
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Apis.Core.pdb
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Apis.Core.xml
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Apis.Storage.v1.pdb
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Cloud.Storage.V1.pdb
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Cloud.Storage.V1.xml
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.CodeDom.xml
+C:\Users\trana\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Firebase.dll
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Api.Gax.dll
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Apis.Auth.dll
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Apis.Core.dll
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Apis.dll
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Cloud.Storage.V1.dll
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\LiteDB.dll
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\System.CodeDom.dll
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\System.Reactive.dll
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Firebase.xml
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Api.Gax.pdb
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Api.Gax.xml
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Apis.pdb
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Apis.xml
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Apis.Auth.xml
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Apis.Core.pdb
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Apis.Core.xml
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Apis.Storage.v1.pdb
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Cloud.Storage.V1.pdb
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Google.Cloud.Storage.V1.xml
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\LiteDB.xml
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\System.CodeDom.xml
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\System.Reactive.xml
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Login.resources
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.RegisterFrom.resources
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\obj\Debug\WindowsF.E1DB6B00.Up2Date
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\USER\Downloads\WindowsFormsApp5 (1)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb

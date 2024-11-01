@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|c:\\users\\user\\downloads\\windowsformsapp5 (1)\\windowsformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|solutionrelative:windowsformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\windowsformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|solutionrelative:windowsformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\windowsformsapp5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|solutionrelative:windowsformsapp5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\windowsformsapp5\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|solutionrelative:windowsformsapp5\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\windowsformsapp5\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|solutionrelative:windowsformsapp5\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\windowsformsapp5\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|solutionrelative:windowsformsapp5\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\windowsformsapp5\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|solutionrelative:windowsformsapp5\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\windowsformsapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|solutionrelative:windowsformsapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\windowsformsapp5\\registerfrom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|solutionrelative:windowsformsapp5\\registerfrom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\windowsformsapp5\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C55AF69-80F5-4F10-9126-1FA79878DFD5}|WindowsFormsApp5\\WindowsFormsApp5.csproj|solutionrelative:windowsformsapp5\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 316,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp5\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\Form1.cs*",
+              "RelativeToolTip": "WindowsFormsApp5\\Form1.cs*",
+              "ViewState": "AgIAAMgBAAAAAAAAAAAIwNMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:34:12.533Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp5\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\Form1.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp5\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:31:38.346Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\User.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp5\\User.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\User.cs",
+              "RelativeToolTip": "WindowsFormsApp5\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:14:17.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterFrom.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\RegisterFrom.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp5\\RegisterFrom.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\RegisterFrom.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp5\\RegisterFrom.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:13:14.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp5\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\Form1.Designer.cs*",
+              "RelativeToolTip": "WindowsFormsApp5\\Form1.Designer.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAADgvykAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:34:20.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\Message.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp5\\Message.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\Message.cs",
+              "RelativeToolTip": "WindowsFormsApp5\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:52:07.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp5\\Login.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\Login.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp5\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:34:45.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp5\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\Login.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp5\\Login.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:18:54.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp5\\Login.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\Login.cs",
+              "RelativeToolTip": "WindowsFormsApp5\\Login.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswEYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:34:46.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp5\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\WindowsFormsApp5 (1)\\WindowsFormsApp5\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:11:10.583Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 84,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
