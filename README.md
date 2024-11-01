@@ -17,4 +17,4 @@ Phần cứng:
 RAM: Tối thiểu 4GB (khuyến nghị 8GB để có hiệu suất tốt hơn)
 Bộ xử lý: Intel i3 hoặc tương đương (khuyến nghị i5 trở lên)
 Dung lượng lưu trữ: 500MB dung lượng trống cho dự án và các tài nguyên liên quan
-Đây là cấu trúc cơ bản giúp các thành viên và người dùng khác hiểu rõ về chức năng và yê
+Đây là cấu trúc cơ bản giúp các thành viên và người dùng khác hiểu rõ về chức năng và yêu cầu của sản phẩm.
